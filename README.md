@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Link do curso [Python Pro](https://pythonpro.com.br/)
 
 [![Build Status](https://app.travis-ci.com/gelhen/libpythonpro21.svg?branch=main)](https://app.travis-ci.com/gelhen/libpythonpro21)
+[![Updates](https://pyup.io/repos/github/gelhen/libpythonpro21/shield.svg)](https://pyup.io/repos/github/gelhen/libpythonpro21/)
+[![Python 3](https://pyup.io/repos/github/gelhen/libpythonpro21/python-3-shield.svg)](https://pyup.io/repos/github/gelhen/libpythonpro21/)
 
 Suportada a versão 3 de Python
 
